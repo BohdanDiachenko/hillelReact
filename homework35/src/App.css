@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.app-wrapper{
+  display: grid;
+  grid-template-areas: 
+  "header header"
+  "nav    main";
+
+  grid-template-rows: 140px calc(100vh - 120px);
+  grid-template-columns: 2fr 12fr;
+
+}
+

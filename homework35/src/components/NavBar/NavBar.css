@@ -1,0 +1,23 @@
+.nav-bar{
+    background: rgb(169, 234, 234);
+    grid-area: nav;
+    padding-left: 30px;
+
+}
+.nav-bar ul{
+    list-style: none;
+    margin: 0;
+    padding: 20px 0;
+}
+.nav-bar ul li{
+    padding: 10px;
+}
+.nav-bar ul a{
+    text-decoration: none;
+    color: #52504c;
+    padding: 5px;
+    transition: 0.4s;
+}
+.nav-bar ul a:hover{
+    color: black;
+}
