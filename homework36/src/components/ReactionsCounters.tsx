@@ -1,7 +1,7 @@
 import { Component } from "react";
 
 class ReactionsCounters extends Component {
-    constructor(props) {
+    constructor(props:any) {
         super(props)
         this.state = {
             emojis: this.props.emojis,
