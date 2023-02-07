@@ -1,0 +1,15 @@
+.active{
+    display: block;
+}
+.inactive{
+    display: none;
+}
+.fixed{
+    position: fixed;
+    top: 20px;
+    left: calc(50% - 350px);
+    width: 700px;
+    padding: 20px 60px;
+
+    background-color: #f7fafb;
+}
