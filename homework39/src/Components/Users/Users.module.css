@@ -1,0 +1,15 @@
+th{
+    position: sticky;
+    top: 0;
+    background-color: #0C93C3;
+    color: #fff !important;
+}
+.tableWrapper{
+    height: 500px;
+    width: 100%;
+    overflow-y: scroll;
+    margin: 20px 0;
+}
+::-webkit-scrollbar {
+    width: 0;
+}
