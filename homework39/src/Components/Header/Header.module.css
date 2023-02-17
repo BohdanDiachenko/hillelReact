@@ -1,0 +1,11 @@
+.header_style{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 20px 40px;
+}
+.nav{
+    justify-content: flex-start !important;
+    gap: 20px;
+}
