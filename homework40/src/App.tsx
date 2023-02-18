@@ -32,15 +32,3 @@ export default App
 
 
 
-  // const deleteTodo = (id: number) => {
-  //   setTodos(todos.filter(todo => todo.id !== id))
-  // };
-
-  // const addTodo = (text: string) => {
-  //   const newTodo = {
-  //     id:  v4(),
-  //     title: text,
-  //     isCompleted: false,
-  //   };
-  //   setTodos([...todos, newTodo]);
-  // };
